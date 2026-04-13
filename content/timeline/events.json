@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2023-10-26",
+    "title": "Online Safety Act receives Royal Assent",
+    "description": "The Online Safety Bill becomes law after years of debate, giving Ofcom the power to regulate user-to-user services and requiring platforms to remove illegal content and protect children【57844258803045†L140-L167】.",
+    "categories": ["online-safety-laws"]
+  },
+  {
+    "date": "2024-02-05",
+    "title": "Government guidance encourages smartphone bans in schools",
+    "description": "The UK government issues guidance recommending mobile phone bans during school time to reduce distractions and improve learning【553404459537235†L150-L161】.",
+    "categories": ["education-restrictions"]
+  },
+  {
+    "date": "2024-10-01",
+    "title": "Safer Phones Bill introduced and watered down",
+    "description": "The Safer Phones Bill is proposed to restrict smartphone use but is watered down after consultation; researchers argue that guided use, not bans, improve learning【968908579016342†L116-L133】.",
+    "categories": ["education-restrictions", "digital-rights"]
+  },
+  {
+    "date": "2025-07-25",
+    "title": "Age verification rules start",
+    "description": "The Online Safety Act’s age-verification requirements come into force, requiring pornography sites and some platforms to verify users’ ages through methods like credit card checks and facial estimation; Ofcom can fine breaches up to £18m or 10% of turnover【915852258660772†L199-L232】.",
+    "categories": ["online-safety-laws", "digital-rights"]
+  },
+  {
+    "date": "2025-08-30",
+    "title": "VPN downloads spike due to age verification",
+    "description": "Following implementation of age verification, a surge in VPN downloads is reported and some services leave the UK to avoid compliance【728410815567409†L81-L116】.",
+    "categories": ["online-safety-laws", "digital-rights"]
+  },
+  {
+    "date": "2025-09-15",
+    "title": "Petition to repeal the Online Safety Act",
+    "description": "Critics launch a petition arguing that the Act’s privacy and free-speech impacts outweigh its benefits【658625671877330†L160-L195】.",
+    "categories": ["online-safety-laws", "censorship-and-expression"]
+  },
+  {
+    "date": "2025-12-01",
+    "title": "Joint ICO/Ofcom age assurance statement",
+    "description": "UK regulators issue a joint statement insisting that services use highly effective, risk-based age assurance measures beyond self-declaration【668258633734839†L31-L67】.",
+    "categories": ["online-safety-laws", "digital-rights"]
+  },
+  {
+    "date": "2026-02-01",
+    "title": "Smartphone bans widespread in schools",
+    "description": "The Department for Education reports that 99.8% of primary and 90% of secondary schools restrict mobile phone use【71973239089973†L136-L170】.",
+    "categories": ["education-restrictions"]
+  },
+  {
+    "date": "2026-03-30",
+    "title": "Amendment for under-18 social media restrictions introduced",
+    "description": "The House of Lords proposes giving the Secretary of State power to restrict under-18s’ access to user-to-user services, raising censorship concerns【32894963678392†L146-L170】.",
+    "categories": ["online-safety-laws", "speech-and-media"]
+  },
+  {
+    "date": "2026-04-02",
+    "title": "Mental Health Foundation calls for platform safety standards",
+    "description": "The Mental Health Foundation supports restrictions on social-media platforms unless they meet safety standards, emphasising offline support for young people【472249431651222†L186-L246】.",
+    "categories": ["digital-rights", "speech-and-media"]
+  }
+]
