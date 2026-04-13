@@ -16,7 +16,8 @@
     "gray-matter": "4.0.3",
     "date-fns": "3.6.0",
     "fuse.js": "6.6.2",
-    "next-mdx-remote": "5.0.0"
+    "next-mdx-remote": "5.0.0",
+    "mongodb": "6.6.2"
   },
   "devDependencies": {
     "typescript": "5.3.3",
