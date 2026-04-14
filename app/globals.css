@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom global styles */
 html {
   scroll-behavior: smooth;
 }
@@ -11,7 +10,6 @@ body {
   @apply antialiased;
 }
 
-/* Prose styling for MDX content */
 .prose img {
   @apply rounded-md;
 }
